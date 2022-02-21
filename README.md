@@ -37,7 +37,7 @@
   
 
 
-[website]: https://minimalist-me.netlify.app
+[website]: https://emmanuel-obi.vercel.app
 [twitter]: https://twitter.com/koliko_man
 [instagram]: https://instagram.com/koliko_official
 [linkedin]: https://linkedin.com/in/emmanuelobi20
