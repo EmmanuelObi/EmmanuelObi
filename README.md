@@ -2,13 +2,13 @@
 
 ## I'm a Developer, Tutor and Ambassador!!
 
-- 🌱 I’m currently learning ReactJs and also working hard to improve my emotional intelligence
+- 🌱 I’m currently working a lot with React, learning more about NextJs and practicing Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Developers on interesting projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to trade the financial markets
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
-- 🤔 I’m looking for help with internship placements for summer 2022
+- 🤔 I’m open to any engineering roles available, particularly frontend specific.
 
 ### Connect with me:
 
