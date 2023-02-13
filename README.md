@@ -1,14 +1,14 @@
 ### Hi there, I'm Emmanuel Obi [website] 👋 
 
-## I'm a Developer, Tutor and Ambassador!!
+## I'm a Developer, Tutor, and Writer!!
 
 - 🌱 I’m currently working a lot with React, learning more about NextJs and practicing Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Developers on interesting projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Be more audacious, contribute value everywhere.
 - ⚡ Fun fact: I love to trade the financial markets
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
-- 🤔 I’m open to any engineering roles available, particularly frontend specific.
+- 🤔 I’m open to any engineering roles available( frontend heavy ).
 
 ## Technologies I Work With
 
