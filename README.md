@@ -1,10 +1,10 @@
 ### Hi there, I'm Emmanuel Obi [website] 👋 
 
-## I'm a Developer, Tutor, and Writer!!
+## I'm a Developer, Tutor, and Technical Writer!!
 
 - 🌱 I’m currently working a lot with React, learning more about NextJs and practicing Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Developers on interesting projects
-- 🥅 2023 Goals: Be more audacious, contribute value everywhere.
+- 🥅 2024 Goals: Be more audacious, and contribute value everywhere. Win!!!
 - ⚡ Fun fact: I love to trade the financial markets
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
@@ -34,11 +34,6 @@
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
   </details>    
-  
-  
-<summary><b>GitHub Analytics</b></summary>
-<img align="center" alt="Emmanuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emmanuelobi&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelobi&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 
 ### Connect with me:
 
