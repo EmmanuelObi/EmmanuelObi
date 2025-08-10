@@ -1,14 +1,12 @@
-### Hi there, I'm Emmanuel Obi [website] 👋 
+### Hi there, I'm Emmanuel Obi 👋 
 
-## I'm a Software Developer, and Tutor.!!
+## A Builder.
 
-- 🌱 I’m currently working a lot with Angular and NodeJs, but I'm also proficient with React.
-- 👯 I’m looking to collaborate with other Developers on interesting projects
-- 🥅 2024 Goals: Be more audacious, and contribute value everywhere. Win!!!
-- ⚡ Fun fact: I love to trade the financial markets
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently working a lot with Python, building out agents.
+- 👯 I’m looking to collaborate on interesting projects
+- 🥅 2025 Goals: Be more audacious, and contribute value everywhere. Win!!!
+- ⚡ Fun fact: AI Agents
 - 💬 Ask me about anything
-- 🤔 I’m open to any engineering roles available.
  
 
 ### Connect with me:
@@ -24,6 +22,6 @@
 
 
 [website]: https://emmanuel-obi.vercel.app
-[twitter]: https://twitter.com/koliko_man
+[twitter]: https://twitter.com/kolikothe1st
 [instagram]: https://instagram.com/koliko_official
 [linkedin]: https://linkedin.com/in/emmanuelobi20
